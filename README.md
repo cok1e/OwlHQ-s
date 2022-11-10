@@ -1,4 +1,4 @@
-o projeto projectRead é um site de leitura de HQ's(Histórias em Quadrinhos) que reúne vários tipos de outros paises como:
+o site projectRead é um site de leitura de HQ's(Histórias em Quadrinhos) que reúne vários tipos de outros paises como:
 
 HQ(Americano),
 mangás(HQ's japonesas),
