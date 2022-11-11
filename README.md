@@ -1,6 +1,6 @@
-ProjectRead.
+OwlHQ's.
 
-o site ProjectRead é um site de leitura de HQ's(Histórias em Quadrinhos) que reúne vários de outros paises,tem o objetivo de trazer o máximo de conteúdo diverso possível para agradar o leitor.
+o site OwlHQ's é um site de leitura de HQ's(Histórias em Quadrinhos) que reúne vários de outros paises,tem o objetivo de trazer o máximo de conteúdo diverso possível para agradar o leitor.
 
 Os tipos de HQ's que o site busca trazer são:
 
