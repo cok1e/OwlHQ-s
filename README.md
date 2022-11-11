@@ -1,17 +1,8 @@
-OwlHQ's.
+dia 1-
+fiz uma pesquisa para saber como um site de quadrinho deveria se parecer,sua tabela de cor,
+como apresenta seus produtos e a tela de login.Fiz também uma breve discrição do site no projects para ter uma pequena noção do que o site quer passar.
+Também pensei em alguns nomes para por no site e decidi colocar ProjectRead.
 
-o site OwlHQ's é um site de leitura de HQ's(Histórias em Quadrinhos) que reúne vários de outros paises,tem o objetivo de trazer o máximo de conteúdo diverso possível para agradar o leitor.
-
-Os tipos de HQ's que o site busca trazer são:
-
-HQ:(Americana e Nacionais),
-
-mangás :( Japão );
-
-manhwas :( Coreia );
-
-Webtoons :(Publicações sul-coreanas online);
-
-webcomics :(Publicações exclusivamente para internet).
-
-o site busca entregar ao leitor uma variedade de HQ's para aumentar seu mundo para a leitura HQ,além do site buscar um público voltado para a literatura.
+dia 2-
+Hoje continuei a procurar mais informação sobre outros sites de hq, o site que mais me chamou atenção foi os sites da MARVEL unlimited e DC comics mesmo que para ler tenha que pagar de qualquer jeito.
+E hoje eu coloquei o nome definitivo para o site tirando o nome de projectRead para OwlHQ's.
